@@ -50,7 +50,7 @@
     "stylelint": "^10.1.0",
     "stylelint-config-standard": "^18.3.0",
     "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "webpack-merge": "^4.2.1",
     "workbox-webpack-plugin": "^4.3.1"
   }
